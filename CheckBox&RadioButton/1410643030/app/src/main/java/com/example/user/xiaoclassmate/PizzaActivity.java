@@ -79,7 +79,7 @@ public class PizzaActivity extends AppCompatActivity {
                     total_price += 430*(Integer.valueOf(PizNumber8.getText().toString()));
                 }
                 if (total_price != 0){
-                    price.setText(String.valueOf(total_price));
+                    price.setText("總計 " + String.valueOf(total_price) + " 元");
                     total_price = 0;
                 }
             }

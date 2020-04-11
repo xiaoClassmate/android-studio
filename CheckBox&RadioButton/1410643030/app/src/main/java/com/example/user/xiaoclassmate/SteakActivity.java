@@ -85,7 +85,7 @@ public class SteakActivity extends AppCompatActivity {
                     }
                 }
                 if (total_price != 0){
-                    price.setText("總計 " + String.valueOf(total_price));
+                    price.setText("總計 " + String.valueOf(total_price) + " 元");
                     total_price = 0;
                 }
             }
