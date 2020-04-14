@@ -1,0 +1,2 @@
+rootProject.name='xiaoClassmate'
+include ':app'
