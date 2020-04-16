@@ -2,10 +2,33 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/blue_green_dark</item>
+        <item name="colorPrimaryDark">@color/blue_green_dark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/pure_dark</item>
+        <item name="android:textColorSecondary">@color/dark_gray</item>
+        <item name="android:textColorTertiary">@color/darker_gray_3B</item>
+        <item name="searchBoxColor">@color/pure_white</item>
+        <item name="dividerColor">@color/blue_green</item>
+        <item name="editTextHintColor">@color/gray</item>
+        <item name="editTextInputColor">@color/pure_dark</item>
+        <item name="mainBackground">@android:color/white</item>
+    </style>
+
+    <style name="NightTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/dark_gray</item>
+        <item name="colorPrimaryDark">@color/dark_gray</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/dark_gray</item>
+        <item name="android:textColorPrimary">@color/pure_dark</item>
+        <item name="function">@color/pure_dark</item>
+        <item name="android:textColorSecondary">@color/dark_gray</item>
+        <item name="android:textColorTertiary">@color/white_BD</item>
+        <item name="searchBoxColor">@color/gray</item>
+        <item name="dividerColor">@color/blue_green</item>
+        <item name="editTextHintColor">@color/white_BD</item>
+        <item name="editTextInputColor">@color/pure_white</item>
+        <item name="mainBackground">@color/dark_gray</item>
     </style>
 
 </resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="searchBoxColor" format="color" />
+    <attr name="colorPrimaryDark" format="color" />
+    <attr name="dividerColor" format="color" />
+    <attr name="editTextHintColor" format="color" />
+    <attr name="editTextInputColor" format="color" />
+    <attr name="function" format="color"/>
+    <attr name="backToTopButtonDrawable" format="reference" />
+    <attr name="mainBackground" format="color|reference"></attr>
+</resources>
