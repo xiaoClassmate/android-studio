@@ -6,7 +6,9 @@
 ---  
 4/17 更新  
 修改版面配色、取消設置、新增日夜模式切換  
-![image](https://github.com/xiaoClassmate/android-studio/blob/master/main_dark.jpg)  
+  
+![image](https://github.com/xiaoClassmate/android-studio/blob/master/main_dark.jpg)
+![image](https://github.com/xiaoClassmate/android-studio/blob/master/main_light.jpg)
 
 ---  
 
