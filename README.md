@@ -3,6 +3,13 @@
 
 期中考 MidtermExamProject  
 
+---  
+4/17 更新  
+修改版面配色、取消設置、新增日夜模式切換  
+![image](https://github.com/xiaoClassmate/android-studio/blob/master/main_dark.jpg)  
+
+---  
+
 歡迎頁面，延遲兩秒後進入主頁面  
 ![image](https://github.com/xiaoClassmate/android-studio/blob/master/welcome.jpg)  
 
