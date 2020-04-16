@@ -9,5 +9,5 @@
 依照作業順序安排功能  
 ![image](https://github.com/xiaoClassmate/android-studio/blob/master/main.jpg)  
 
-期中功能(俄羅斯方塊、設定)
+期中功能(俄羅斯方塊、設定)  
 ![image](https://github.com/xiaoClassmate/android-studio/blob/master/tetris.jpg)  
