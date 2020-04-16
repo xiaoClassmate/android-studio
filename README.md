@@ -1,7 +1,6 @@
-# android-studio
-嵌入式系統程式設計
+# android-studio 嵌入式系統程式設計
 
-期中考 MidtermExamProject  
+4/15 上傳期中考 MidtermExamProject  
 
 ---  
 4/17 更新  
